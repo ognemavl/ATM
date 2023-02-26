@@ -134,7 +134,7 @@ int main()
                 cout << endl << "-> Account no: " << user1.getAccountNo();
                 cout << endl << "-> Name: " << user1.getName();
                 cout << endl << "-> Balance: " << user1.getBalance();
-                cout << endl << "-> Mobile No.: " << user1.getMobileNo();
+                cout << endl << "-> Mobile No: " << user1.getMobileNo() << endl;
                 system("pause"); // wait for user input
                 break;
             case 4:
